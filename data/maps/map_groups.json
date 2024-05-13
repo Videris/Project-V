@@ -1,7 +1,7 @@
 {
   "group_order": [
+  	"gMapGroup_SalvenOutdoor",
     "gMapGroup_TownsAndRoutes",
-    "gMapGroup_SalvenOutdoor",
     "gMapGroup_IndoorLittleroot",
     "gMapGroup_IndoorOldale",
     "gMapGroup_IndoorDewford",
@@ -35,6 +35,9 @@
     "gMapGroup_IndoorRoute123",
     "gMapGroup_IndoorRoute119",
     "gMapGroup_IndoorRoute124"
+  ],
+  "gMapGroup_SalvenOutdoor": [
+    "Sagecreek_Town"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -95,10 +98,6 @@
     "Underwater_Route105",
     "Underwater_Route125"
   ],
-   "gMapGroup_SalvenOutdoor": [
-    "Sagecreek_Town"
-   ],
-   
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",
     "LittlerootTown_BrendansHouse_2F",
