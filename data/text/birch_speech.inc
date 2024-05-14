@@ -54,6 +54,7 @@ gText_Birch_AreYouReady::
 	.string "joy and friendships await you!\p"
 	.string "To start off, {PLAYER}{KUN},\n"
 	.string "I have a simple mission for you.\l"
-	.string "First, you need to wake up!\n"
+	.string "First, you need to wake up!\p"
+	.string "{PLAYER}?\p"
 	.string "I said wake up this very instant!\p"
 	.string "$"

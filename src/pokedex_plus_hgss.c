@@ -3780,7 +3780,7 @@ static u8 LoadInfoScreen(struct PokedexListItem *item, u8 monSpriteId)
     gTasks[taskId].tScrolling = FALSE;
     gTasks[taskId].tMonSpriteDone = TRUE; // Already has sprite from list view
     gTasks[taskId].tBgLoaded = FALSE;
-    gTasks[taskId].tSkipCry = FALSE;
+    gTasks[taskId].tSkipCry = TRUE;
     gTasks[taskId].tMonSpriteId = monSpriteId;
     gTasks[taskId].tTrainerSpriteId = SPRITE_NONE;
     ResetBgsAndClearDma3BusyFlags(0);
