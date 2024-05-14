@@ -20,7 +20,7 @@ gText_PkmnTransferredLanettesPCBoxFull::
 	.string "Box “{STR_VAR_3}” in the\n"
 	.string "Reserve Box was full.\p"
 	.string "{STR_VAR_2} was transferred to\n"
-	.string "BOX “{STR_VAR_1}.”$
+	.string "BOX “{STR_VAR_1}.”$"
 
 gText_NoMoreRoomForPokemon::
 	.string "There's no more room for Pokémon!\p"
