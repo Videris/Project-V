@@ -1263,6 +1263,7 @@ static void Task_NewGameBirchSpeech_WaitToShowBirch(u8 taskId)
     if (gTasks[taskId].tTimer)
     {
         gTasks[taskId].tTimer--;
+        
     }
     else
     {

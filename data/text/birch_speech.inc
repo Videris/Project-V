@@ -56,5 +56,5 @@ gText_Birch_AreYouReady::
 	.string "I have a simple mission for you.\l"
 	.string "First, you need to wake up!\p"
 	.string "{PLAYER}?\p"
-	.string "I said wake up this very instant!\p"
+	.string "Wake up or you'll be late!\p"
 	.string "$"

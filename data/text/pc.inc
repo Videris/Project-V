@@ -8,7 +8,7 @@ gText_AccessedSomeonesPC::
 	.string "Opened the Reserve Box.$"
 
 gText_StorageSystemOpened::
-	.string "Opened the Reserve Box.$"
+	.string "Checking Poké Balls.$"
 
 gText_AccessedPlayersPC::
 	.string "Accessed {PLAYER}'s cache.$"
