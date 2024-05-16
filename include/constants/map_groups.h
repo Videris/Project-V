@@ -9,6 +9,8 @@
 #define MAP_SAGECREEK_TOWN (0 | (0 << 8))
 
 // gMapGroup_SagecreekTownIndoor
+#define MAP_PLAYERSHOUSE_1F (0 | (1 << 8))
+#define MAP_GERTRUDES_HOUSE (1 | (1 << 8))
 
 // gMapGroup_SagecreekPortIndoor
 

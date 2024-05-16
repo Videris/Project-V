@@ -55,6 +55,55 @@
   "gMapGroup_SalvenOutdoor": [
     "Sagecreek_Town"
   ],
+  "gMapGroup_SagecreekTownIndoor": [
+    "PLAYERSHOUSE_1F",
+    "GERTRUDES_HOUSE"
+  ],
+  "gMapGroup_SagecreekPortIndoor": [
+
+  ],
+  "gMapGroup_ThymeboroIndoor": [
+
+  ],
+  "gMapGroup_KombuCoastIndoor": [
+
+  ],
+  "gMapGroup_BasilbyBrookIndoor": [
+
+  ],
+  "gMapGroup_BasilbyIndoor": [
+
+  ],
+  "gMapGroup_MintfordIndoor": [
+
+  ],
+  "gMapGroup_NewMintfordIndoor": [
+
+  ],
+  "gMapGroup_PeppertonIndoor": [
+
+  ],
+  "gMapGroup_PeppertonBeachIndoor": [
+
+  ],
+  "gMapGroup_ScovilleIndoor": [
+
+  ],
+  "gMapGroup_BurnetHillsIndoor": [
+
+  ],
+  "gMapGroup_ClovehamIndoor": [
+
+  ],
+  "gMapGroup_MaceportIndoor": [
+
+  ],
+  "gMapGroup_MaceportBayIndoor": [
+
+  ],
+  "gMapGroup_CressvaleIndoor": [
+
+  ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
     "SlateportCity",

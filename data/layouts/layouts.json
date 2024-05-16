@@ -4420,6 +4420,26 @@
       "secondary_tileset": "gTileset_Lilycove",
       "border_filepath": "data/layouts/Sagecreek_Town/border.bin",
       "blockdata_filepath": "data/layouts/Sagecreek_Town/map.bin"
+    },
+    {
+      "id": "LAYOUT_PLAYERSHOUSE_1F",
+      "name": "PLAYERSHOUSE_1F_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/PLAYERSHOUSE_1F/border.bin",
+      "blockdata_filepath": "data/layouts/PLAYERSHOUSE_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_GERTRUDES_HOUSE",
+      "name": "GERTRUDES_HOUSE_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/GERTRUDES_HOUSE/border.bin",
+      "blockdata_filepath": "data/layouts/GERTRUDES_HOUSE/map.bin"
     }
   ]
 }
