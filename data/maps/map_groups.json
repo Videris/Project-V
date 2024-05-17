@@ -57,7 +57,10 @@
   ],
   "gMapGroup_SagecreekTownIndoor": [
     "PLAYERSHOUSE_1F",
-    "GERTRUDES_HOUSE"
+    "GERTRUDES_HOUSE",
+    "CONSTANCES_HOUSE",
+    "PLAYERSHOUSE_2F",
+    "Sinconas_House"
   ],
   "gMapGroup_SagecreekPortIndoor": [
 

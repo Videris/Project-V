@@ -1,8 +1,8 @@
 {
-  "id": "MAP_PLAYERSHOUSE_1F",
-  "name": "PLAYERSHOUSE_1F",
-  "layout": "LAYOUT_PLAYERSHOUSE_1F",
-  "music": "MUS_ABANDONED_SHIP",
+  "id": "MAP_CONSTANCES_HOUSE",
+  "name": "CONSTANCES_HOUSE",
+  "layout": "LAYOUT_CONSTANCES_HOUSE",
+  "music": "MUS_DEWFORD",
   "region_map_section": "MAPSEC_SAGECREEK_TOWN",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
@@ -17,20 +17,7 @@
 
   ],
   "warp_events": [
-    {
-      "x": 10,
-      "y": 11,
-      "elevation": 0,
-      "dest_map": "MAP_SAGECREEK_TOWN",
-      "dest_warp_id": "0"
-    },
-    {
-      "x": 11,
-      "y": 11,
-      "elevation": 0,
-      "dest_map": "MAP_SAGECREEK_TOWN",
-      "dest_warp_id": "0"
-    }
+
   ],
   "coord_events": [
 

@@ -4414,7 +4414,7 @@
     {
       "id": "LAYOUT_SAGECREEK_TOWN",
       "name": "Sagecreek_Town_Layout",
-      "width": 30,
+      "width": 38,
       "height": 30,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Lilycove",
@@ -4424,8 +4424,8 @@
     {
       "id": "LAYOUT_PLAYERSHOUSE_1F",
       "name": "PLAYERSHOUSE_1F_Layout",
-      "width": 11,
-      "height": 9,
+      "width": 14,
+      "height": 12,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/PLAYERSHOUSE_1F/border.bin",
@@ -4436,10 +4436,40 @@
       "name": "GERTRUDES_HOUSE_Layout",
       "width": 10,
       "height": 8,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/GERTRUDES_HOUSE/border.bin",
       "blockdata_filepath": "data/layouts/GERTRUDES_HOUSE/map.bin"
+    },
+    {
+      "id": "LAYOUT_CONSTANCES_HOUSE",
+      "name": "CONSTANCES_HOUSE_Layout",
+      "width": 12,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/CONSTANCES_HOUSE/border.bin",
+      "blockdata_filepath": "data/layouts/CONSTANCES_HOUSE/map.bin"
+    },
+    {
+      "id": "LAYOUT_PLAYERSHOUSE_2F",
+      "name": "PLAYERSHOUSE_2F_Layout",
+      "width": 12,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/PLAYERSHOUSE_2F/border.bin",
+      "blockdata_filepath": "data/layouts/PLAYERSHOUSE_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SINCONAS_HOUSE",
+      "name": "Sinconas_House_Layout",
+      "width": 25,
+      "height": 18,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Sinconas_House/border.bin",
+      "blockdata_filepath": "data/layouts/Sinconas_House/map.bin"
     }
   ]
 }
