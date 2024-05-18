@@ -53,7 +53,8 @@
     "gMapGroup_IndoorRoute124"
   ],
   "gMapGroup_SalvenOutdoor": [
-    "Sagecreek_Town"
+    "Sagecreek_Town",
+    "SUMAC_TRACK"
   ],
   "gMapGroup_SagecreekTownIndoor": [
     "PLAYERSHOUSE_1F",

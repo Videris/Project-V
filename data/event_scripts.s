@@ -1085,3 +1085,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/PLAYERSHOUSE_2F/scripts.inc"
 
 	.include "data/maps/Sinconas_House/scripts.inc"
+
+	.include "data/maps/SUMAC_TRACK/scripts.inc"

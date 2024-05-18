@@ -2417,7 +2417,7 @@
       "width": 58,
       "height": 26,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "0",
+      "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/UnusedOutdoorArea/border.bin",
       "blockdata_filepath": "data/layouts/UnusedOutdoorArea/map.bin"
     },
@@ -4414,17 +4414,17 @@
     {
       "id": "LAYOUT_SAGECREEK_TOWN",
       "name": "Sagecreek_Town_Layout",
-      "width": 38,
-      "height": 30,
+      "width": 48,
+      "height": 40,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Lilycove",
+      "secondary_tileset": "gTileset_EliteFour",
       "border_filepath": "data/layouts/Sagecreek_Town/border.bin",
       "blockdata_filepath": "data/layouts/Sagecreek_Town/map.bin"
     },
     {
       "id": "LAYOUT_PLAYERSHOUSE_1F",
       "name": "PLAYERSHOUSE_1F_Layout",
-      "width": 14,
+      "width": 16,
       "height": 12,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_GenericBuilding",
@@ -4470,6 +4470,16 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/Sinconas_House/border.bin",
       "blockdata_filepath": "data/layouts/Sinconas_House/map.bin"
+    },
+    {
+      "id": "LAYOUT_SUMAC_TRACK",
+      "name": "SUMAC_TRACK_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/SUMAC_TRACK/border.bin",
+      "blockdata_filepath": "data/layouts/SUMAC_TRACK/map.bin"
     }
   ]
 }
