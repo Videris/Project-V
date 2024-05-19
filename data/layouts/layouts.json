@@ -4474,12 +4474,22 @@
     {
       "id": "LAYOUT_SUMAC_TRACK",
       "name": "SUMAC_TRACK_Layout",
-      "width": 30,
+      "width": 60,
       "height": 30,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/SUMAC_TRACK/border.bin",
       "blockdata_filepath": "data/layouts/SUMAC_TRACK/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAGECREEK_PORT",
+      "name": "Sagecreek_Port_Layout",
+      "width": 30,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/Sagecreek_Port/border.bin",
+      "blockdata_filepath": "data/layouts/Sagecreek_Port/map.bin"
     }
   ]
 }
