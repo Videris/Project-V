@@ -4417,7 +4417,7 @@
       "width": 48,
       "height": 40,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_EliteFour",
+      "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Sagecreek_Town/border.bin",
       "blockdata_filepath": "data/layouts/Sagecreek_Town/map.bin"
     },

@@ -15,7 +15,7 @@
   "connections": [
     {
       "map": "MAP_SAGECREEK_TOWN",
-      "offset": -3,
+      "offset": 10,
       "direction": "right"
     }
   ],
