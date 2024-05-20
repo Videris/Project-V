@@ -15,8 +15,13 @@
   "connections": [
     {
       "map": "MAP_SAGECREEK_TOWN",
-      "offset": 0,
+      "offset": 5,
       "direction": "left"
+    },
+    {
+      "map": "MAP_CHERVIL_LANE",
+      "offset": 4,
+      "direction": "up"
     }
   ],
   "object_events": [

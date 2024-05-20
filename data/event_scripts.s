@@ -1089,3 +1089,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/SUMAC_TRACK/scripts.inc"
 
 	.include "data/maps/Sagecreek_Port/scripts.inc"
+
+	.include "data/maps/CHERVIL_LANE/scripts.inc"

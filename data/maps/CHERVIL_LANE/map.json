@@ -1,12 +1,12 @@
 {
-  "id": "MAP_SUMAC_TRACK",
-  "name": "SUMAC_TRACK",
-  "layout": "LAYOUT_SUMAC_TRACK",
-  "music": "MUS_FORTREE",
-  "region_map_section": "MAPSEC_SUMAC_TRACK",
+  "id": "MAP_CHERVIL_LANE",
+  "name": "CHERVIL_LANE",
+  "layout": "LAYOUT_CHERVIL_LANE",
+  "music": "MUS_ROUTE113",
+  "region_map_section": "MAPSEC_CHERVIL_LANE",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
-  "map_type": "MAP_TYPE_ROUTE",
+  "map_type": "MAP_TYPE_NONE",
   "allow_cycling": true,
   "allow_escaping": false,
   "allow_running": true,
@@ -14,9 +14,9 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_SAGECREEK_TOWN",
-      "offset": 17,
-      "direction": "right"
+      "map": "MAP_SAGECREEK_PORT",
+      "offset": -4,
+      "direction": "down"
     }
   ],
   "object_events": [

@@ -9,6 +9,7 @@
 #define MAP_SAGECREEK_TOWN (0 | (0 << 8))
 #define MAP_SUMAC_TRACK    (1 | (0 << 8))
 #define MAP_SAGECREEK_PORT (2 | (0 << 8))
+#define MAP_CHERVIL_LANE   (3 | (0 << 8))
 
 // gMapGroup_SagecreekTownIndoor
 #define MAP_PLAYERSHOUSE_1F  (0 | (1 << 8))

@@ -55,7 +55,8 @@
   "gMapGroup_SalvenOutdoor": [
     "Sagecreek_Town",
     "SUMAC_TRACK",
-    "Sagecreek_Port"
+    "Sagecreek_Port",
+    "CHERVIL_LANE"
   ],
   "gMapGroup_SagecreekTownIndoor": [
     "PLAYERSHOUSE_1F",

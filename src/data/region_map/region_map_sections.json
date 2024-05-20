@@ -19,7 +19,7 @@
     {
       "map_section": "MAPSEC_CHERVIL_LANE",
       "name": "CHERVIL LANE",
-      "x": 25,
+      "x": 26,
       "y": 11,
       "width": 1,
       "height": 2
@@ -27,10 +27,10 @@
     {
       "map_section": "MAPSEC_EAST_FENNELWOOD",
       "name": "EAST FENNELWOOD",
-      "x": 25,
-      "y": 8,
+      "x": 26,
+      "y": 9,
       "width": 1,
-      "height": 3
+      "height": 2
     },
     {
       "map_section": "MAPSEC_THYMEBORO",
@@ -85,7 +85,7 @@
       "name": "ORRIS RIVER",
       "x": 19,
       "y": 7,
-      "width": 6,
+      "width": 7,
       "height": 4
     },
     {
@@ -237,8 +237,8 @@
       "name": "ORRIS RAPIDS",
       "x": 17,
       "y": 4,
-      "width": 3,
-      "height": 1
+      "width": 2,
+      "height": 2
     }
   ]
 }
