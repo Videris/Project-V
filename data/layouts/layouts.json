@@ -4500,6 +4500,26 @@
       "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/CHERVIL_LANE/border.bin",
       "blockdata_filepath": "data/layouts/CHERVIL_LANE/map.bin"
+    },
+    {
+      "id": "LAYOUT_ABANDONED_THEATER",
+      "name": "ABANDONED_THEATER_Layout",
+      "width": 40,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_BattlePalace",
+      "border_filepath": "data/layouts/ABANDONED_THEATER/border.bin",
+      "blockdata_filepath": "data/layouts/ABANDONED_THEATER/map.bin"
+    },
+    {
+      "id": "LAYOUT_BATTLE_THEATER",
+      "name": "BATTLE_THEATER_Layout",
+      "width": 40,
+      "height": 30,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BattlePalace",
+      "border_filepath": "data/layouts/BATTLE_THEATER/border.bin",
+      "blockdata_filepath": "data/layouts/BATTLE_THEATER/map.bin"
     }
   ]
 }

@@ -63,7 +63,9 @@
     "GERTRUDES_HOUSE",
     "CONSTANCES_HOUSE",
     "PLAYERSHOUSE_2F",
-    "Sinconas_House"
+    "Sinconas_House",
+    "ABANDONED_THEATER",
+    "BATTLE_THEATER"
   ],
   "gMapGroup_SagecreekPortIndoor": [
 

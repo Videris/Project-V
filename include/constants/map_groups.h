@@ -12,11 +12,13 @@
 #define MAP_CHERVIL_LANE   (3 | (0 << 8))
 
 // gMapGroup_SagecreekTownIndoor
-#define MAP_PLAYERSHOUSE_1F  (0 | (1 << 8))
-#define MAP_GERTRUDES_HOUSE  (1 | (1 << 8))
-#define MAP_CONSTANCES_HOUSE (2 | (1 << 8))
-#define MAP_PLAYERSHOUSE_2F  (3 | (1 << 8))
-#define MAP_SINCONAS_HOUSE   (4 | (1 << 8))
+#define MAP_PLAYERSHOUSE_1F   (0 | (1 << 8))
+#define MAP_GERTRUDES_HOUSE   (1 | (1 << 8))
+#define MAP_CONSTANCES_HOUSE  (2 | (1 << 8))
+#define MAP_PLAYERSHOUSE_2F   (3 | (1 << 8))
+#define MAP_SINCONAS_HOUSE    (4 | (1 << 8))
+#define MAP_ABANDONED_THEATER (5 | (1 << 8))
+#define MAP_BATTLE_THEATER    (6 | (1 << 8))
 
 // gMapGroup_SagecreekPortIndoor
 

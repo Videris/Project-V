@@ -1091,3 +1091,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/Sagecreek_Port/scripts.inc"
 
 	.include "data/maps/CHERVIL_LANE/scripts.inc"
+
+	.include "data/maps/ABANDONED_THEATER/scripts.inc"
+
+	.include "data/maps/BATTLE_THEATER/scripts.inc"
