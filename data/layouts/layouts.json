@@ -4484,7 +4484,7 @@
     {
       "id": "LAYOUT_SAGECREEK_PORT",
       "name": "Sagecreek_Port_Layout",
-      "width": 40,
+      "width": 45,
       "height": 45,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Slateport",
